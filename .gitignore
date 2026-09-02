@@ -1,0 +1,17 @@
+# Only the password-protected files should ever reach the public GitHub repo.
+# Everything below stays on your computer.
+
+# Your readable master copy — the whole point of the password is to not publish this
+site/
+
+# The staging folder you drop fresh locked files into
+protected/
+
+# Your private guides and the encryption tool
+GO-LIVE.md
+PASSWORD-PROTECTION.md
+GIT-STEPS.md
+protect-site.html
+
+# Mac clutter
+.DS_Store
